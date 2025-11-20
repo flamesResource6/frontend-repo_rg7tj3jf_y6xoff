@@ -1,8 +1,8 @@
-import { PenTool, Ruler, Cut, Flame, Brush } from "lucide-react"
+import { PenTool, Ruler, Scissors, Flame, Brush } from "lucide-react"
 
 const services = [
   {
-    icon: <Cut className="h-5 w-5" />, title: "Laser Cutting",
+    icon: <Scissors className="h-5 w-5" />, title: "Laser Cutting",
     desc: "Precision cutting for wood, acrylic and small metal parts."
   },
   {
